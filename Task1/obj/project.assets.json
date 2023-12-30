@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniyar\\Work\\Разрабочик\\lesson\\Знакомство с языками программирования\\lesson\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Daniyar\\Work\\Разрабочик\\lesson\\Знакомство с языками программирования\\lesson1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Daniyar\\Work\\Разрабочик\\lesson\\Знакомство с языками программирования\\lesson\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\Daniyar\\Work\\Разрабочик\\lesson\\Знакомство с языками программирования\\lesson1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Daniyar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniyar\\Work\\Разрабочик\\lesson\\Знакомство с языками программирования\\lesson\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Daniyar\\Work\\Разрабочик\\lesson\\Знакомство с языками программирования\\lesson1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniyar\\AppData\\Roaming\\NuGet\\NuGet.Config"
